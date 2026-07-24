@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Prakash Kumar Banner" width="100%">
+</p>
+
+<br>
 # 👋 Hi, I'm Prakash Kumar
 
 ## 🚀 About Me
