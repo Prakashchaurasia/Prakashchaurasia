@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Prakash Kumar
 
-<!--
-**Prakashchaurasia/Prakashchaurasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a B.Tech Information Technology student passionate about building real-world software and solving Data Structures & Algorithms problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy learning new technologies, participating in hackathons, and developing Full Stack applications.
+
+---
+
+## 💻 Skills
+
+- C
+- C++
+- Java
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+---
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- Full Stack Development
+- Artificial Intelligence
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: *([Add your profile link here](https://www.linkedin.com/in/prakashkumar30012006/))*
+- LeetCode: *([Add your profile link here](https://leetcode.com/u/Prakash30012006/))*
+- Codeforces: *([Add your profile link here](https://codeforces.com/profile/Prakashkr33))*
+
+---
+⭐ Thanks for visiting my profile!
