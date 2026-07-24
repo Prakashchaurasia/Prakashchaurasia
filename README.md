@@ -31,7 +31,7 @@ I enjoy learning new technologies, participating in hackathons, and developing F
 
 ## 📫 Connect With Me
 
-- LinkedIn: *([Add your profile link here](https://www.linkedin.com/in/prakashkumar30012006/))*
+- LinkedIn: *https://www.linkedin.com/in/prakashkumar30012006/*
 - LeetCode: *([Add your profile link here](https://leetcode.com/u/Prakash30012006/))*
 - Codeforces: *([Add your profile link here](https://codeforces.com/profile/Prakashkr33))*
 
