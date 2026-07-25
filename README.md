@@ -61,18 +61,38 @@
 </table>
 
 
-## 💻 Skills
+## 🛠 Tech Stack
 
-- C
-- C++
-- Java
-- HTML
-- CSS
-- JavaScript
-- Git
-- GitHub
+### 💻 Languages
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+
+### 🧰 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+### 🌱 Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=DSA advanced ,AIML,Full Stack" />
+</p>
 
 ## 🌱 Currently Learning
 
