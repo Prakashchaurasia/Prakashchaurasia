@@ -89,15 +89,14 @@
 
 ## 📊 GitHub Analytics
 
-<p align="left">
+<p align="centre">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Prakashchaurasia&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakashchaurasia&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="right">
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashchaurasia&layout=compact&theme=tokyonight&hide_border=true" />
   <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prakashchaurasia&theme=tokyonight" />
 </p>
+
+
 
 
 ## 🌱 Currently Learning
