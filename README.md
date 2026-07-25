@@ -143,10 +143,10 @@ A productivity and self-growth application that helps users visualize future goa
 
 </table>
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Prakashchaurasia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakashchaurasia&theme=tokyo-night&hide_border=true" />
 </p>
 
 ## 📫 Connect With Me
