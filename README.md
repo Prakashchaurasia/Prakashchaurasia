@@ -143,32 +143,43 @@ A productivity and self-growth application that helps users visualize future goa
 
 </table>
 
-<td width="50%" valign="top">
+## 🚀 Leadership & Community
 
-### 🚀 Leadership & Community
-
-- 👨‍💼 Coordinator @ **Student Developer Club (SDC)**
+- 👨‍💼 **Coordinator** @ Student Developer Club (SDC)
 - 🎯 Organized technical workshops and coding events
 - 🤝 Mentored juniors in **DSA** and **Web Development**
 - 🌱 Building a collaborative developer community
 
-</td>
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/prakashkumar30012006/">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="mailto:prakash953449@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://github.com/Prakashchaurasia">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
-⭐ Thanks for visiting my profile!
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."* 🚀
+
+</p>
