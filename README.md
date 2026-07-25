@@ -61,7 +61,7 @@
 </table>
 
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack and Tools
 
 ### 💻 Languages
 
