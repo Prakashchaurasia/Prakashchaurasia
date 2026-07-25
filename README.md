@@ -92,8 +92,8 @@
 <table align="center">
 <tr>
 <td align="center">
-<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakashchaurasia&theme=tokyonight&hide_border=true"/>
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prakashchaurasia&theme=tokyonight"/>
+<img height="200" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakashchaurasia&theme=tokyonight&hide_border=true"/>
+  <img height="200" width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prakashchaurasia&theme=tokyonight"/>
 </td>
 </tr>
 </table>
