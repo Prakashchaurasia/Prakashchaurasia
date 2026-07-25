@@ -81,6 +81,11 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
 ### 🧰 Tools
 
@@ -88,11 +93,6 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
-### 🌱 Currently Exploring
-
-<p>
-<img src="https://skillicons.dev/icons?i=DSA advanced ,AIML,Full Stack" />
-</p>
 
 ## 🌱 Currently Learning
 
