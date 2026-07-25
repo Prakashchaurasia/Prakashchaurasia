@@ -98,6 +98,50 @@
 </tr>
 </table>
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🩺 HealthOS
+
+An AI-powered healthcare platform focused on intelligent patient management, appointment scheduling, and smart health assistance.
+
+**Tech Stack:** `React` `Node.js` `Express` `MongoDB`
+
+✨ Features
+- AI-powered health assistance
+- Secure authentication
+- Responsive dashboard
+- Modern UI/UX
+
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPO_LINK)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 Future Self
+
+A productivity and self-growth application that helps users visualize future goals using AI insights and habit tracking.
+
+**Tech Stack:** `React` `Node.js` `MongoDB`
+
+✨ Features
+- AI goal visualization
+- Habit tracking
+- Progress analytics
+- Daily motivation
+
+[![Source Code](https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_REPO_LINK)
+
+</td>
+
+</tr>
+
+</table>
 
 ## 🌱 Currently Learning
 
