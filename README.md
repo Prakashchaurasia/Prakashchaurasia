@@ -143,13 +143,11 @@ A productivity and self-growth application that helps users visualize future goa
 
 </table>
 
-## 🌱 Currently Learning
+## 🏆 GitHub Trophies
 
-- Data Structures & Algorithms
-- Full Stack Development
-- Artificial Intelligence
-
----
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Prakashchaurasia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=6"/>
+</p>
 
 ## 📫 Connect With Me
 
