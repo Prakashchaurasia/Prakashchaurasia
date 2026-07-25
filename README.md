@@ -8,14 +8,14 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Prakash30012006/">
-    <img src="https://img.shields.io/badge/LeetCode-Max%201770-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-Max%201590-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 
   <a href="https://codeforces.com/profile/Prakashkr33">
-    <img src="https://img.shields.io/badge/Codeforces-Max%201245-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+    <img src="https://img.shields.io/badge/Codeforces-Max%201025-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 
-  <a href="https://www.overleaf.com/project/69453f35feca8804111ec098">
+  <a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:6c93724f-3882-430a-81b7-34cdd0e64952">
     <img src="https://img.shields.io/badge/Resume-View-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 
