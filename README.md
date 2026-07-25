@@ -143,6 +143,37 @@ A productivity and self-growth application that helps users visualize future goa
 
 </table>
 
+## 🏆 Achievements & Problem Solving
+
+Recruiters at top engineering companies value strong algorithmic thinking. Here's a snapshot of my competitive programming journey:
+
+<table>
+<tr>
+<th>🧩 Problem Solving</th>
+<th>🏅 Competitive Programming</th>
+<th>🚀 Leadership & Hackathons</th>
+</tr>
+
+<tr>
+<td><b>300+</b> DSA Problems Solved</td>
+<td><b>LeetCode:</b> 1590 Max Rating</td>
+<td>👨‍💼 Coordinator – Student Developer Club (SDC)</td>
+</tr>
+
+<tr>
+<td><b>200+</b> LeetCode Problems Solved</td>
+<td><b>Codeforces:</b> 1025 Max Rating</td>
+<td>🏆 Participated in National Level Hackathons</td>
+</tr>
+
+<tr>
+<td><b>100+</b> Codeforces Problems Solved</td>
+<td>Learning Competitive Programming Daily</td>
+<td>🤝 Organized Technical Workshops & Coding Events</td>
+</tr>
+
+</table>
+
 ## 🚀 Leadership & Community
 
 - 👨‍💼 **Coordinator** @ Student Developer Club (SDC)
