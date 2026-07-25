@@ -90,6 +90,17 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prakashchaurasia&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Prakashchaurasia&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashchaurasia&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prakashchaurasia&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
   <img width="49%" src="https://streak-stats.demolab.com?user=Prakashchaurasia&theme=tokyonight&hide_border=true&border_radius=12" />
 </p>
