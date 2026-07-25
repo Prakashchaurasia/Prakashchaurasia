@@ -155,13 +155,13 @@ Recruiters at top engineering companies value strong algorithmic thinking. Here'
 </tr>
 
 <tr>
-<td><b>300+</b> DSA Problems Solved</td>
+<td><b>500+</b> DSA Problems Solved</td>
 <td><b>LeetCode:</b> 1590 Max Rating</td>
 <td>👨‍💼 Coordinator – Student Developer Club (SDC)</td>
 </tr>
 
 <tr>
-<td><b>200+</b> LeetCode Problems Solved</td>
+<td><b>400+</b> LeetCode Problems Solved</td>
 <td><b>Codeforces:</b> 1025 Max Rating</td>
 <td>🏆 Participated in National Level Hackathons</td>
 </tr>
