@@ -26,15 +26,43 @@
 
 <br>
 <br>
-# 👋 Hi, I'm Prakash Kumar
-
 ## 🚀 About Me
 
-I'm a B.Tech Information Technology student passionate about building real-world software and solving Data Structures & Algorithms problems.
+<table>
+<tr>
+<td width="65%">
 
-I enjoy learning new technologies, participating in hackathons, and developing Full Stack applications.
+🎓 **B.Tech in Information Technology**  
+🏫 Rajkiya Engineering College, Banda
 
----
+💻 Passionate about **Data Structures & Algorithms**, **Competitive Programming**, and **Full Stack Development**.
+
+🌱 Currently learning:
+- Advanced DSA
+- React.js
+- Node.js
+- System Design
+- AI & Machine Learning
+
+🎯 Goals:
+- Solve 1000+ DSA Problems
+- Contribute to Open Source
+- Build Scalable Projects
+- Crack Top Software Roles
+
+⚡ Fun Fact:
+> I enjoy transforming ideas into real-world applications through code.
+
+</td>
+
+<td width="35%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%">
+
+</td>
+</tr>
+</table>
+
 
 ## 💻 Skills
 
