@@ -61,32 +61,65 @@
 </table>
 
 
-## 🛠 Tech Stack and Tools
+## 🛠️ Tech Stack and Tools
 
 ### 💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
 </p>
+
+<p align="center">
+<b>C++</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Java</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Python</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>JavaScript</b>
+</p>
+
+---
 
 ### 🎨 Frontend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-### ⚙️ Backend and  Database
+<p align="center">
+<b>HTML5</b> &nbsp;&nbsp;&nbsp;&nbsp;
+<b>CSS3</b> &nbsp;&nbsp;&nbsp;&nbsp;
+<b>React</b> &nbsp;&nbsp;&nbsp;&nbsp;
+<b>Tailwind CSS</b>
+</p>
 
-<p>
+---
+
+### ⚙️ Backend & Database
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
+<p align="center">
+<b>Node.js</b> &nbsp;&nbsp;&nbsp;
+<b>Express</b> &nbsp;&nbsp;&nbsp;
+<b>MongoDB</b> &nbsp;&nbsp;&nbsp;
+<b>MySQL</b>
+</p>
+
+---
+
 ### 🧰 Tools
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
+<p align="center">
+<b>Git</b> &nbsp;&nbsp;&nbsp;&nbsp;
+<b>GitHub</b> &nbsp;&nbsp;&nbsp;&nbsp;
+<b>VS Code</b> &nbsp;&nbsp;&nbsp;&nbsp;
+<b>Figma</b>
+</p>
 ## 📊 GitHub Analytics
 
 <table align="center">
