@@ -2,11 +2,26 @@
   <img src="banner.png" alt="Prakash Kumar Banner" width="100%">
 </p>
 
+<h2 align="center">Software Engineer • Competitive Programmer • Full Stack Developer</h2>
+
+<h1 align="center">Open Source Learner</h1>
+
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=4000&pause=2000&color=8B5CF6&center=true&vCenter=true&width=850&height=60&repeat=true&cursor=false&lines=Full+Stack+Developer;Competitive+Programmer;Software+Engineer;AI+Enthusiast;Code.+Learn.+Build."
-    alt="Typing Animation"
-  />
+  <a href="https://leetcode.com/u/Prakash30012006/">
+    <img src="https://img.shields.io/badge/LeetCode-Max%201770-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
+  <a href="https://codeforces.com/profile/Prakashkr33">
+    <img src="https://img.shields.io/badge/Codeforces-Max%201245-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+
+  <a href="https://www.overleaf.com/project/69453f35feca8804111ec098">
+    <img src="https://img.shields.io/badge/Resume-View-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/prakashkumar30012006/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 <br>
