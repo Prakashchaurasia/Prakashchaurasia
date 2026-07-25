@@ -149,6 +149,16 @@ A productivity and self-growth application that helps users visualize future goa
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakashchaurasia&theme=tokyo-night&hide_border=true" />
 </p>
 
+<td width="50%" valign="top">
+
+### 🚀 Leadership & Community
+
+- 👨‍💼 Coordinator @ **Student Developer Club (SDC)**
+- 🎯 Organized technical workshops and coding events
+- 🤝 Mentored juniors in **DSA** and **Web Development**
+- 🌱 Building a collaborative developer community
+
+</td>
 ## 📫 Connect With Me
 
 - LinkedIn: *https://www.linkedin.com/in/prakashkumar30012006/*
