@@ -40,8 +40,6 @@
 🌱 Currently learning:
 - Advanced DSA
 - React.js
-- Node.js
-- System Design
 - AI & Machine Learning
 
 🎯 Goals:
