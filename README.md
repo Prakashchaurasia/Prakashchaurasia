@@ -2,6 +2,10 @@
   <img src="banner.png" alt="Prakash Kumar Banner" width="100%">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Competitive+Programmer;Software+Engineer;AI+Enthusiast;Code.+Learn.+Build." alt="Typing SVG" />
+</p>
+
 <br>
 <br>
 # 👋 Hi, I'm Prakash Kumar
