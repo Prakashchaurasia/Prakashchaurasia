@@ -159,6 +159,24 @@ A productivity and self-growth application that helps users visualize future goa
 - 🌱 Building a collaborative developer community
 
 </td>
+
+## 💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Prakash30012006/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://codeforces.com/profile/Prakashkr33">
+<img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Prakashchaurasia">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 ## 📫 Connect With Me
 
 - LinkedIn: *https://www.linkedin.com/in/prakashkumar30012006/*
