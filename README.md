@@ -143,12 +143,6 @@ A productivity and self-growth application that helps users visualize future goa
 
 </table>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakashchaurasia&theme=tokyo-night&hide_border=true" />
-</p>
-
 <td width="50%" valign="top">
 
 ### 🚀 Leadership & Community
